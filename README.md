@@ -15,11 +15,11 @@
 <a href="https://codeforces.com/profile/mhtkrag">
 <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=mhtkrag&theme=github_dark&force_username=true&border_color=404040" alt="mhtkrag Codeforces stats"/>
 </a>
-<a href="https://leetcode.com/mohitagrawal_">
-<img height="316" src="https://leetcard.jacoblin.cool/mohitagrawal_?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/mohitagrawal_/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="mohitagrawal_ Leetcode Stats"/>
+-->
+<a href="[https://leetcode.com/rahul21r/]">
+<img height="316" src="https://leetcard.jacoblin.cool/rahul21r?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/mohitagrawal_/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="rahul21r Leetcode Stats"/>
 </a>
 </span>
--->
 
 
 
@@ -40,4 +40,5 @@
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
 <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
+<img alt="NLP" src="https://img.shields.io/badge/NLP-7952B3.svg?logo=nlp&logoColor=white">
 </p>
