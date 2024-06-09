@@ -1,3 +1,4 @@
+<!--
 ## 📊 Github Stats
 
 <span>
@@ -41,3 +42,4 @@
 <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
 <img alt="VITE" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"
 </p>
+-->
